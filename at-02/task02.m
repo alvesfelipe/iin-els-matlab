@@ -5,7 +5,7 @@
 
 
 %% sec01
-% create a random matrix A with values from 20 to 80 and 50x50 elements
+% create a random matrix A with values from 20 to 80 and 40x40 elements
 A = 20 + (80-20).*rand(40,40);
 
 %% sec02
