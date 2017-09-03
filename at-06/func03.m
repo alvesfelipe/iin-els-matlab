@@ -1,3 +1,5 @@
+% Felipe Alves Araujo - felipeaaraujoo@gmail.com
+
 function func03(input1, input2, msg)
 
 % specify the name of the .m file for save
